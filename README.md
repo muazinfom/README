@@ -1,5 +1,5 @@
 ### Hi there 👋, This is a Hasan.
-#### I am a Android Developer.
+#### I am a Node.js Developer.
 I have special skills in Back-End Developer and Mongodb database. I have strong technical skills as well.
 
 Skills:  C / Node.js / Java / Mongodb
@@ -14,7 +14,7 @@ Skills:  C / Node.js / Java / Mongodb
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muazinfom)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehediinf&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muazinfom&show_icons=true)  
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=muazinfom)  
